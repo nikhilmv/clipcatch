@@ -25,12 +25,12 @@ Fast, easy, and built with a clean UI for the best experience.
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/64949957/153995383-367cbcc0-cce5-4523-a999-b8d92e44d6ab.jpg" alt="mockup" /></td>
-    <td><img src="https://user-images.githubusercontent.com/64949957/153995406-45e36cbc-8d42-4416-b23a-08ad592e4ebc.jpg" alt="mockups" /></td>
+    <td><img src="https://raw.githubusercontent.com/nikhilmv/clipcatch/refs/heads/main/screenshots/photo_2025-08-11_13-49-19.jpg" alt="mockup" /></td>
+    <td><img src="https://raw.githubusercontent.com/nikhilmv/clipcatch/refs/heads/main/screenshots/photo_2025-08-11_13-49-20%20(2).jpg" alt="mockups" /></td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/64949957/153996560-bd631f30-46f0-4248-83b3-d8ce44a8f9e4.PNG" alt="mockup" /></td>
-    <td><img src="https://user-images.githubusercontent.com/64949957/153996577-57b1a82d-064a-49dc-9055-e2bceb854ab2.PNG" alt="mockups" /></td>
+    <td><img src="https://raw.githubusercontent.com/nikhilmv/clipcatch/refs/heads/main/screenshots/photo_2025-08-11_13-49-20.jpg" alt="mockup" /></td>
+    <td><img src="https://raw.githubusercontent.com/nikhilmv/clipcatch/refs/heads/main/screenshots/photo_2025-08-11_13-49-46.jpg" alt="mockups" /></td>
   </tr>
 </table> -->
 
