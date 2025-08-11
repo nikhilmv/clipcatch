@@ -11,7 +11,7 @@ Fast, easy, and built with a clean UI for the best experience.
 ![React Native](https://camo.githubusercontent.com/3a94fbacfc6f555c9a73c35ccd25280558336b67f074f5fabceeea3eb0f54ad8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163745f6e61746976652d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642)&nbsp; 
  
  </br>&nbsp; 
-(https://raw.githubusercontent.com/nikhilmv/clipcatch/refs/heads/main/screenshots/logo.png)&nbsp; 
+<img src="https://raw.githubusercontent.com/nikhilmv/clipcatch/refs/heads/main/screenshots/logo.png" alt="mockup" />&nbsp; 
  
  
 ## 🚀 Features
